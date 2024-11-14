@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="Background" Color="Black"></SolidColorBrush>
+    <SolidColorBrush x:Key="Text" Color="White"></SolidColorBrush>
+
+    <SolidColorBrush x:Key="Section__Border" Color="LightGray"/>
+
+    <SolidColorBrush x:Key="Settings__Menu" Color="White"/>
+
+    <SolidColorBrush x:Key="Field--Required" Color="LightYellow"/>
+</ResourceDictionary>
